@@ -18,6 +18,17 @@
                                 <PersistentState>
                                   <option name="children">
                                     <map>
+                                      <entry key="backgroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="scalingPercent" value="27" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
                                       <entry key="foregroundImage">
                                         <value>
                                           <PersistentState>
@@ -34,11 +45,14 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="027fa6" />
-                                      <entry key="backgroundLayerName" value="search_icon_background" />
-                                      <entry key="foregroundImage" value="C:\Users\Brian\Desktop\search.png" />
-                                      <entry key="foregroundLayerName" value="search_icon_foreground" />
+                                      <entry key="backgroundColor" value="ffffff" />
+                                      <entry key="backgroundImage" value="C:\Users\Brian\Desktop\transparent.png" />
+                                      <entry key="backgroundLayerName" value="home_icon_background" />
+                                      <entry key="foregroundImage" value="C:\Users\Brian\Desktop\home.png" />
+                                      <entry key="foregroundLayerName" value="home_icon_foreground" />
+                                      <entry key="legacyIconShape" value="NONE" />
+                                      <entry key="outputName" value="home" />
+                                      <entry key="webIconShape" value="NONE" />
                                     </map>
                                   </option>
                                 </PersistentState>
